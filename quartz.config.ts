@@ -26,7 +26,8 @@ const config: QuartzConfig = {
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
-      darkMode: {
+      colors: {
+        darkMode: {
           light: "#161618",
           lightgray: "#393639",
           gray: "#646464",
@@ -37,7 +38,6 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
-      colors: {
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
