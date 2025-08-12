@@ -32,7 +32,7 @@ jobs:
           aws_region: 'auto'
           aws_bucket: ${{ secrets.STORAGE_BUCKET }}
           endpoint: ${{ secrets.STORAGE_ENDPOINT }}
-          source: ''
+          source: 'note'
           target: 'content'
           
       - uses: actions/setup-node@v4
