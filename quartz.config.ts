@@ -8,16 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "🌱 の数字花园",
+    enableSPA: true,
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    analytics: null,
+    locale: "zh-CN",
+    baseUrl: "quartz.ccsyue.com",
+    ignorePatterns: ["private", "templates", ".obsidian", "**/*.excalidraw.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
