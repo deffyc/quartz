@@ -81,7 +81,7 @@ title: 知识花园
     <img src="https://cdn.ccsyue.com/picx-images-hosting/master/kg-readme-cover.4xucvdmtbp.gif" alt><br>
 </p>
 
-> [!warning] tip 科学思维金句
+!!! tip "科学思维金句"
 
     1．科学，不仅是一种知识体系，更是一种思维方式
 
@@ -123,7 +123,7 @@ title: 知识花园
 
     20．妄想，就是没有证据却坚称真理
 
-> [!note] 方氏三定律
+!!! abstract "方氏三定律"
 
     一、只允许你听的一面之辞，十之八九是谎言。
     
