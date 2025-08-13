@@ -6,6 +6,7 @@ on:
       - v4
   schedule:
     - cron: '0 19 * * *'
+  workflow_dispatch:
     
 permissions:
   contents: read
