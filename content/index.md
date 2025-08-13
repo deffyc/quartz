@@ -1,6 +1,5 @@
 ---
 title: 知识花园
-template: home.html
 ---
 
 <center><font  color= #518FC1 size=6 class="ml3">用科学解释世界 用理性破除愚昧</font></center>
@@ -82,7 +81,7 @@ template: home.html
     <img src="https://cdn.ccsyue.com/picx-images-hosting/master/kg-readme-cover.4xucvdmtbp.gif" alt><br>
 </p>
 
-!!! tip "科学思维金句"
+> [!warning] tip 科学思维金句
 
     1．科学，不仅是一种知识体系，更是一种思维方式
 
@@ -124,7 +123,7 @@ template: home.html
 
     20．妄想，就是没有证据却坚称真理
 
-!!! abstract "方氏三定律"
+> [!note] 方氏三定律
 
     一、只允许你听的一面之辞，十之八九是谎言。
     
